@@ -38,7 +38,7 @@ Note: your repositories will be public unless you [request a private one](https:
    **Note: Whatever you have checked in right now in this new branch, that's is what's included in the pull request**
    
  9. On the right hand sign of the "Open a Pull Request" screen, select the Assignee gear, and assign shuri-w205 to the issue.
-  ![Assignee](https://github.com/MIDS-W205/Assignments/raw/master/screens/6.5-Assignee.png?raw=true "Assignee")
+  ![Assignee](https://github.com/shuri-w205/exercise-submission-howto/blob/master/assignee.png?raw=true "Assignee")
 
  10. Your instructor can now view the pull request and grade the assignment.  **Please do not merge the pull request.**
   ![Pull Request](https://github.com/MIDS-W205/Assignments/raw/master/screens/7-FinalOutput.png?raw=true "Pull Request")

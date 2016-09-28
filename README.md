@@ -10,7 +10,7 @@ Note: your repositories will be public unless you [request a private one](https:
  0. Create a new repository.  Make it private if you can... github will give out a free Micro account that can create 5 private repos with new student accounts.
  ![Create Repo](https://github.com/MIDS-W205/Assignments/raw/master/screens/0-CreateRepo.png?raw=true "Create Repo")
 
- 1. Add MIDS-W205 as a collaborator
+ 1. Add shuri-w205 as a collaborator
  ![Add Collaborator](https://github.com/MIDS-W205/Assignments/raw/master/screens/1_5-Collaborators.png?raw=true "Add Collaborator")
 
  2. [Create a branch](https://help.github.com/articles/creating-and-deleting-branches-within-your-repository/) of your repository for the homework. 
@@ -33,7 +33,7 @@ Note: your repositories will be public unless you [request a private one](https:
  8. [Create a pull request](https://help.github.com/articles/creating-a-pull-request/) from your created branch to master for the code you'd like to turn in by clicking the Compare & pull request button
   ![Pull Request](https://github.com/MIDS-W205/Assignments/raw/master/screens/6-PullRequest.png?raw=true "Pull Request")
 
- 9. On the right hand sign of the "Open a Pull Request" screen, select the Assignee gear, and assign MIDS-W205 to the issue.
+ 9. On the right hand sign of the "Open a Pull Request" screen, select the Assignee gear, and assign shuri-w205 to the issue.
   ![Assignee](https://github.com/MIDS-W205/Assignments/raw/master/screens/6.5-Assignee.png?raw=true "Assignee")
 
  10. Your instructor can now view the pull request and grade the assignment.  **Please do not merge the pull request.**

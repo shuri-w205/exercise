@@ -13,6 +13,8 @@ Note: your repositories will be public unless you [request a private one](https:
  1. Add shuri-w205 as a collaborator
  ![Add Collaborator](https://raw.githubusercontent.com/shuri-w205/exercise-submission-howto/master/add_collaborator.png "Add Collaborator")
 
+  **Note: Your collaborator needs to approve the collaboration before you can assign pull requests to them.**
+
  2. [Create a branch](https://help.github.com/articles/creating-and-deleting-branches-within-your-repository/) of your repository for the homework. 
  ![Create a Branch](https://github.com/MIDS-W205/Assignments/raw/master/screens/1-CreateBranchOnGithub.png?raw=true "Create a branch")
 

@@ -32,9 +32,11 @@ Note: your repositories will be public unless you [request a private one](https:
  7. Push your local branch back up to Github
   ![Push to Github](https://github.com/MIDS-W205/Assignments/raw/master/screens/5-PushNewBranchToGithub.png?raw=true "Push to Github")
 
- 8. [Create a pull request](https://help.github.com/articles/creating-a-pull-request/) from your created branch to master for the code you'd like to turn in by clicking the Compare & pull request button
-  ![Pull Request](https://github.com/MIDS-W205/Assignments/raw/master/screens/6-PullRequest.png?raw=true "Pull Request")
-
+ 8. [Create a pull request](https://help.github.com/articles/creating-a-pull-request/) from your created branch to master for the code you'd like to turn in by clicking the Compare & pull request button 
+   ![New Pull Request](https://github.com/shuri-w205/exercise-submission-howto/blob/master/new_pull_request.png?raw=true "New Pull Request") 
+   ![Create Pull Request](https://github.com/shuri-w205/exercise-submission-howto/blob/master/create_pull_request.png?raw=true "Create Pull Request") 
+   **Note: Whatever you have checked in right now in this new branch, that's is what's included in the pull request**
+   
  9. On the right hand sign of the "Open a Pull Request" screen, select the Assignee gear, and assign shuri-w205 to the issue.
   ![Assignee](https://github.com/MIDS-W205/Assignments/raw/master/screens/6.5-Assignee.png?raw=true "Assignee")
 

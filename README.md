@@ -8,7 +8,7 @@ Note: your repositories will be public unless you [request a private one](https:
 
 ## The Process ##
  0. Create a new repository.  Make it private if you can... github will give out a free Micro account that can create 5 private repos with new student accounts.
- ![Create Repo](https://github.com/MIDS-W205/Assignments/raw/master/screens/0-CreateRepo.png?raw=true "Create Repo")
+ ![Create Repo](https://raw.githubusercontent.com/shuri-w205/exercise-submission-howto/master/open_new_repo.png "Create Repo")
 
  1. Add shuri-w205 as a collaborator
  ![Add Collaborator](https://github.com/MIDS-W205/Assignments/raw/master/screens/1_5-Collaborators.png?raw=true "Add Collaborator")
